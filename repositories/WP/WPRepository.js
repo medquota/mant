@@ -4,10 +4,10 @@
  * */
 import axios from 'axios';
 
-export const WPDomain = 'https://pilore.com';
+export const WPDomain = 'https://medquota.com';
 
-const username = 'ck_e74f2fa45d927e4d38c4085702fbc5735acee51f';
-const password = 'cs_43b8b2ca85e439134c16a2a04a8c2a4d2516bb93';
+const username = 'ck_38ea6b13f8204fcd94665ba180c939e505c2f5e7';
+const password = 'cs_ff4c6db8ce7e05f74f569d4b60462ab1016b9f2d';
 
 export const oathInfo = {
     consumer_key: username,
