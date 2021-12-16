@@ -1,6 +1,6 @@
 import axios from 'axios';
 const baseDomain = 'http://45.76.97.89:3000';
-export const wp = 'https://medquota.com';
+export const wp = 'https://www.naturalpetcare.us';
 //export const wp = 'http://wp.diaryforlife.info';
 
 const authorization_prefix = 'Bearer ';
